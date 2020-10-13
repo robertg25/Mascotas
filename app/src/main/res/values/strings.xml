@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">ROBERT</string>
+    <string name="telefono">66421</string>
+    <string name="email">mail@gmail.com</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
